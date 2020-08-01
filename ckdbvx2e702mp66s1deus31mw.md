@@ -2,7 +2,7 @@
 
 This is a tutorial for configuring Jupyter notebook for ArcGIS. 
 
-* Download Anaconda **32-bit** Python 3.6 version (https://www.anaconda.com/download/#windows)
+* Download  [Anaconda **32-bit** Python 3.x version](https://www.anaconda.com/products/individual#windows) 
 * Install Anaconda 32-bit to **C:\Anaconda3**
 * Add Anaconda to Windows system PATH (Control Panel - System and Security - System - Advanced system settings - Advanced Tab - Environment Variables - System variables -  Double click Path variable - New - Add C:\Anaconda3\Scripts to Path variable) - OK
 * Open ArcGIS Python Windows (ArcMap -- Geoprocessing -- Python)
