@@ -16,9 +16,12 @@ This video shows you how to use pydeck for rendering Earth Engine data.
 - mamba install earthengine-api pydeck pydeck-earthengine-layers -c conda-forge
 - jupyter nbextension install --sys-prefix --symlink --overwrite --py pydeck
 - jupyter nbextension enable --sys-prefix --py pydeck
-GitHub: https://github.com/giswqs/geemap
+
 
 ### Resources
+
+**GitHub: **
+- https://github.com/giswqs/geemap
 
 **Notebook: **
 - https://github.com/giswqs/geemap/blob/master/examples/notebooks/29_pydeck.ipynb
