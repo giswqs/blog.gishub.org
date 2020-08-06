@@ -15,7 +15,7 @@ mamba install geemap -c conda-forge
 
 ## Resources
 
-**Notebook: **
+**Notebook:**
 - https://github.com/giswqs/geemap/blob/master/examples/notebooks/30_image_props_stats.ipynb
 
 **Demo**
