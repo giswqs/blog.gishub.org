@@ -18,7 +18,7 @@ mamba install geemap -c conda-forge
 ## Resources
 
 **Notebook:**
-- https://github.com/giswqs/geemap/blob/master/examples/notebooks/32_supervised_classification.ipynb
+- https://github.com/giswqs/geemap/blob/master/examples/notebooks/33_accuracy_assessment.ipynb
 
 **Demo**
 ![demo](https://i.imgur.com/1JkIrF3.gif)
