@@ -3,7 +3,7 @@
 WhiteboxTools  [v1.4.0](https://github.com/jblindsay/whitebox-tools/releases/tag/1.4.0)  with **447** tools for geospatial analysis has been released by Dr. [John Lindsay](https://github.com/jblindsay). I have updated the WhiteboxTools frontends (Python, R, ArcGIS) to use WBT v1.4.0. Note that the QGIS frontend is not maintained by me. Therefore, it might not be up-to-date. 
 
 - WhiteboxTools: [https://github.com/jblindsay/whitebox-tools](https://github.com/jblindsay/whitebox-tools)
-- User Mannual: [https://github.com/giswqs/WhiteboxTools-ArcGIS](https://github.com/giswqs/WhiteboxTools-ArcGIS)
+- User Mannual: [https://jblindsay.github.io/wbt_book](https://jblindsay.github.io/wbt_book)
 - whitebox-python: [https://github.com/giswqs/whitebox-python](https://github.com/giswqs/whitebox-python)
 - whiteboxR: [https://github.com/giswqs/whiteboxR](https://github.com/giswqs/whiteboxR)
 - whitebox-ArcGIS: [https://github.com/giswqs/WhiteboxTools-ArcGIS](https://github.com/giswqs/WhiteboxTools-ArcGIS)
