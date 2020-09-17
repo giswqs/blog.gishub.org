@@ -23,7 +23,7 @@ mamba install geemap -c conda-forge
 
 **Video**
 
-%[https://youtu.be/VO6-uG7Dl7s]
+%[https://youtu.be/9KEaW4Ks5fQ]
 
 ## Step-by-step tutorial
 
