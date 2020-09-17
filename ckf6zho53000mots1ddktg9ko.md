@@ -16,7 +16,7 @@ mamba install geemap -c conda-forge
 ## Resources
 
 **Notebook:**
-- https://github.com/giswqs/geemap/blob/master/examples/notebooks/34_extract_values.ipynb
+- https://github.com/giswqs/geemap/blob/master/examples/notebooks/36_quality_mosaic.ipynb
 
 **Demo**
 ![demo](https://i.imgur.com/eLDeb4t.gif)
