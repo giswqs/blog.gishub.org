@@ -22,3 +22,21 @@ Band combination: **Red/Green/Blue**
 
 Band combination: **SWIR2/SWIR1/NIR**
 ![](https://i.imgur.com/PS17dag.gif)
+
+More timelapse animations:
+
+![](https://i.imgur.com/WXkDKnL.gif)
+
+![](https://i.imgur.com/kDaREin.gif)
+
+![](https://i.imgur.com/qIC4ycI.gif)
+
+![](https://i.imgur.com/D6BKxak.gifv)
+
+![](https://i.imgur.com/aKUzbrG.gif)
+
+![](https://i.imgur.com/VWKWpBI.gif)
+
+![](https://i.imgur.com/sMiQ0rf.gif)
+
+![](https://i.imgur.com/zbsWL0K.gif)
