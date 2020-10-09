@@ -4,7 +4,7 @@ Creating Landsat timelapse animations within a few seconds using Earth Engine an
 
 **heroku web app:** https://geemap.herokuapp.com/voila/render/timelapse.ipynb
 
-**ngork web app:** https://gishub.org/gee-ngrok
+**ngrok web app:** https://gishub.org/gee-ngrok
 
 **Notebook: **https://github.com/giswqs/geemap/blob/master/examples/notebooks/28_voila.ipynb
 
