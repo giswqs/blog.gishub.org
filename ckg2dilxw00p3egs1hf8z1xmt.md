@@ -31,7 +31,7 @@ More timelapse animations:
 
 ![](https://i.imgur.com/qIC4ycI.gif)
 
-![](https://i.imgur.com/D6BKxak.gifv)
+![](https://i.imgur.com/D6BKxak.gif)
 
 ![](https://i.imgur.com/aKUzbrG.gif)
 
