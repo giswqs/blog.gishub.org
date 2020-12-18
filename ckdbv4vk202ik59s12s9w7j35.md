@@ -11,7 +11,7 @@ The tutorial will work through practical examples showing you how to conduct cri
 ### Study Area
 * San Francisco, California
 * [Police Department Incidents Data 2007-2016](https://goo.gl/RB44BM) (281 MB)
-* R source code available for download at [https://gishub.org/crime](http://go.wetlands.io/crime) 
+* R source code available for download at [https://gishub.org/crime](https://gishub.org/crime) 
 
 
 ## Software Needed
