@@ -12,6 +12,6 @@
 8. Wait for the recipe to pass all checks
 9. `@conda-forge/help-python` to let them know that your recipe is ready for review.
 10. Once your recipe is accepted, your package feedstock should become available within a few hours (e.g., [geodemo-feedstock](https://github.com/conda-forge/geodemo-feedstock)).
-11. The link to your package on conda-forage should be <https://anaconda.org/conda-forge/package-name>, such as <https://anaconda.org/conda-forge/geemap>
+11. The link to your package on conda-forage should be <https://anaconda.org/conda-forge/package-name>, such as <https://anaconda.org/conda-forge/geodemo>
 
 %[https://youtu.be/NNWhz7pqwCw]
