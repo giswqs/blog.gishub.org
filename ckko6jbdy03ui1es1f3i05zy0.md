@@ -41,7 +41,8 @@ files.download('path/to/your/file')
 You can use R programming language in Google Colab by going to  [https://colab.to/r](https://colab.to/r). It will open a new notebook with R set as the kernel instead of Python.
 13. **“Open in Colab” Badge:** You can add a ‘Open in Colab’ badge to your **README.md** or jupyter notebooks using the following markdown code: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/notebooks/basic_features_overview.ipynb)
 `[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/notebooks/basic_features_overview.ipynb)`
-
+14. Run Rust programs in Google Colab:
+Go to [https://colab.to/rust](https://colab.to/rust). Then rust the first cell. Reload the page. Skip the first and run other cells, or write your own codes.
 
 **References:**
 -  [Google Colab Tips for Power Users](https://amitness.com/2020/06/google-colaboratory-tips/)
