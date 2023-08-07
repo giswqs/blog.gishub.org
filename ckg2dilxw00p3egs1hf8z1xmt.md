@@ -1,4 +1,12 @@
-## Creating Landsat timelapse animations using Earth Engine and geemap
+---
+title: "Creating Landsat timelapse animations using Earth Engine and geemap"
+datePublished: Fri Oct 09 2020 14:57:14 GMT+0000 (Coordinated Universal Time)
+cuid: ckg2dilxw00p3egs1hf8z1xmt
+slug: creating-landsat-timelapse-animations-using-earth-engine-and-geemap
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1602254790075/wscAy0wbV.png
+tags: python, gis, remote-sensing, earth-engine, geemap
+
+---
 
 Creating Landsat timelapse animations within a few seconds using Earth Engine and the [geemap](https://giswqs.github.io/geemap/) Python package.
 
