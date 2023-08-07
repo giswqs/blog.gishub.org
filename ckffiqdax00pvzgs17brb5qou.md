@@ -1,4 +1,12 @@
-## Earth Engine Tutorial #37: How to use Earth Engine with pydeck for 3D terrain visualization
+---
+title: "Earth Engine Tutorial #37: How to use Earth Engine with pydeck for 3D terrain visualization"
+datePublished: Wed Sep 23 2020 15:04:32 GMT+0000 (Coordinated Universal Time)
+cuid: ckffiqdax00pvzgs17brb5qou
+slug: earth-engine-tutorial-37-how-to-use-earth-engine-with-pydeck-for-3d-terrain-visualization
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1600873212913/OsuBGinbi.png
+tags: python, gis, earth-engine, geemap
+
+---
 
 **Requirements**
 
