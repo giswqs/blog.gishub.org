@@ -1,4 +1,12 @@
-## Earth Engine Tutorial #36: How to find out the greenest day of the year for each location
+---
+title: "Earth Engine Tutorial #36: How to find out the greenest day of the year for each location"
+datePublished: Thu Sep 17 2020 15:43:44 GMT+0000 (Coordinated Universal Time)
+cuid: ckf6zho53000mots1ddktg9ko
+slug: earth-engine-tutorial-36-how-to-find-out-the-greenest-day-of-the-year-for-each-location
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1600357417941/xI7zYiiJd.png
+tags: python, gis, remote-sensing, earth-engine, geemap
+
+---
 
 This tutorial shows you how to find out the greenest day of the year for each pixel location. **The method can be generalized to find out the corresponding time of the maximum value of a timeseries for each pixel**, such as the day with the hottest temperature record for each location during the past decades, the day with the largest amount of rainfall for each location during the past year.  
 
