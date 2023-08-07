@@ -1,4 +1,12 @@
-## GEE Tutorial #38 - How to use Cloud Optimized GeoTIFF with Earth Engine
+---
+title: "GEE Tutorial #38 - How to use Cloud Optimized GeoTIFF with Earth Engine"
+datePublished: Sun Oct 11 2020 13:07:03 GMT+0000 (Coordinated Universal Time)
+cuid: ckg54gmbo06b6e9s18zftb4gk
+slug: gee-tutorial-38-how-to-use-cloud-optimized-geotiff-with-earth-engine
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1602421587677/irIFqmOqB.png
+tags: python, gis, remote-sensing, earth-engine, geemap
+
+---
 
 This tutorial shows you load **Cloud Optimized GeoTIFF** as Earth Engine Image and ImageCollection. A Cloud Optimized GeoTIFF (COG) is a regular GeoTIFF file, aimed at being hosted on a HTTP file server, with an internal organization that enables more efficient workflows on the cloud. It does this by leveraging the ability of clients issuing HTTP GET range requests to ask for just the parts of a file they need. More information about COG can be found at <https://www.cogeo.org/in-depth.html>
 
