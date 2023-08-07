@@ -1,4 +1,12 @@
-## Earth Engine Tutorial #30: How to get image properties and descriptive statistics
+---
+title: "Earth Engine Tutorial #30: How to get image properties and descriptive statistics"
+datePublished: Thu Aug 06 2020 14:37:50 GMT+0000 (Coordinated Universal Time)
+cuid: ckdiwn50f00q2zzs15w6pf5rx
+slug: earth-engine-tutorial-30-how-to-get-image-properties-and-descriptive-statistics
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1596722452188/c2QvMDgvP.png
+tags: python, gis, remote-sensing, geospatial, earth-engine
+
+---
 
 This tutorial shows you how to retrieve basic properties (metadata) of an Earth Engine image and how to calculate descriptive statistics (e.g., min, max, mean, std, sum). 
 
