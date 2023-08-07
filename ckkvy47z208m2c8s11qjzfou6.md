@@ -1,4 +1,12 @@
-## Visual Studio Code Tips & Tricks
+---
+title: "Visual Studio Code Tips & Tricks"
+datePublished: Mon Feb 08 2021 02:18:03 GMT+0000 (Coordinated Universal Time)
+cuid: ckkvy47z208m2c8s11qjzfou6
+slug: visual-studio-code-tips-and-tricks
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1612750630264/pCIV3sYrg.png
+tags: productivity, python, coding, vscode, programming-tips
+
+---
 
 [Visual Studio Code](https://code.visualstudio.com) is a free source-code editor made by Microsoft for Windows, Linux and macOS. Features include support for debugging, syntax highlighting, intelligent code completion, snippets, code refactoring, and embedded Git. Users can change the theme, keyboard shortcuts, preferences, and install extensions that add additional functionality.
 
