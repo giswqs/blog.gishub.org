@@ -1,4 +1,12 @@
-## GEE Tutorial #40 - How to add interactive widgets to the map
+---
+title: "GEE Tutorial #40 - How to add interactive widgets to the map"
+datePublished: Sat Oct 24 2020 17:08:59 GMT+0000 (Coordinated Universal Time)
+cuid: ckgnxtt6m03n3o9s1foxnc9ze
+slug: gee-tutorial-40-how-to-add-interactive-widgets-to-the-map
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1603557595111/dAJA8ZUG4.png
+tags: python, gis, remote-sensing, earth-engine, geemap
+
+---
 
 This tutorial shows you how to add interactive widgets to the map. 
 
