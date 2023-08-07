@@ -1,4 +1,12 @@
-## Google Colab Tips and Tricks
+---
+title: "Google Colab Tips and Tricks"
+datePublished: Tue Feb 02 2021 15:51:35 GMT+0000 (Coordinated Universal Time)
+cuid: ckko6jbdy03ui1es1f3i05zy0
+slug: google-colab-tips-and-tricks
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1612281057768/aH0ajIY70.png
+tags: python, programming-tips, geemap
+
+---
 
 %[https://youtu.be/fmtB2PzqXVY]
 
