@@ -1,4 +1,12 @@
-## Twitter Analytics Using R
+---
+title: "Twitter Analytics Using R"
+datePublished: Sat Aug 01 2020 16:26:58 GMT+0000 (Coordinated Universal Time)
+cuid: ckdbvc86z02lm66s16bjgedd2
+slug: twitter-analytics-using-r
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1596299153147/VBIxQFBDR.png
+tags: twitter, statistics, gis, geospatial
+
+---
 
 The tutorial will work through practical examples showing you how to extract and visualize Twitter data using R. 
 
