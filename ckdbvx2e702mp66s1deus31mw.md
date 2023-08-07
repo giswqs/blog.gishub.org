@@ -1,4 +1,12 @@
-## How to configure Jupyter Notebook for ArcGIS
+---
+title: "How to configure Jupyter Notebook for ArcGIS"
+datePublished: Sat Aug 01 2020 16:43:11 GMT+0000 (Coordinated Universal Time)
+cuid: ckdbvx2e702mp66s1deus31mw
+slug: how-to-configure-jupyter-notebook-for-arcgis
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1596300125621/BH7xlmZnD.png
+tags: python, gis
+
+---
 
 This is a tutorial for configuring Jupyter notebook for ArcGIS. 
 
