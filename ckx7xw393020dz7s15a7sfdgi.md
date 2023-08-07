@@ -1,4 +1,12 @@
-## Creating satellite timelapse with Streamlit and Earth Engine
+---
+title: "Creating satellite timelapse with Streamlit and Earth Engine"
+datePublished: Wed Dec 15 2021 19:41:26 GMT+0000 (Coordinated Universal Time)
+cuid: ckx7xw393020dz7s15a7sfdgi
+slug: creating-satellite-timelapse-with-streamlit-and-earth-engine
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1639597204156/kKA3Y4vDY.png
+tags: python, data-science, geospatial, earth-engine, geemap
+
+---
 
 I just published a new blog post – Creating satellite timelapse with Streamlit and Google Earth Engine. Check it out. 
 
