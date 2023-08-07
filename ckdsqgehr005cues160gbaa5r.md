@@ -1,4 +1,12 @@
-## Earth Engine Tutorial #33: Performing Accuracy Assessment for Image Classification
+---
+title: "Earth Engine Tutorial #33: Performing Accuracy Assessment for Image Classification"
+datePublished: Thu Aug 13 2020 11:42:20 GMT+0000 (Coordinated Universal Time)
+cuid: ckdsqgehr005cues160gbaa5r
+slug: earth-engine-tutorial-33-performing-accuracy-assessment-for-image-classification
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1597318832692/jfJwWTptx.png
+tags: python, gis, remote-sensing, geospatial, earth-engine
+
+---
 
 This tutorial shows you how to perform accuracy assessment for image classification. Specifically, I will show you how to use Earth Engine to perform random forest classification, generate confusion matrix, compute overall accuracy, Kappa coefficient, producer's accuracy, consumer's accuracy, etc. 
 
