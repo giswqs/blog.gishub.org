@@ -1,4 +1,12 @@
-## Earth Engine Tutorial #32: Machine Learning with Earth Engine - Supervised Classification
+---
+title: "Earth Engine Tutorial #32: Machine Learning with Earth Engine - Supervised Classification"
+datePublished: Tue Aug 11 2020 11:49:12 GMT+0000 (Coordinated Universal Time)
+cuid: ckdpvtjc2025al9s191v743b3
+slug: earth-engine-tutorial-32-machine-learning-with-earth-engine-supervised-classification
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1597112209274/8ilfgNOMY.png
+tags: python, gis, remote-sensing, geospatial, earth-engine
+
+---
 
 This tutorial shows you how to perform supervised classification (e.g., Classification and Regression Trees [CART]) in Earth Engine.
 
