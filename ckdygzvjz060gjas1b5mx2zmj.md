@@ -1,4 +1,12 @@
-## Earth Engine Tutorial #34: Interactive extraction of pixel values and interactive region reduction
+---
+title: "Earth Engine Tutorial #34: Interactive extraction of pixel values and interactive region reduction"
+datePublished: Mon Aug 17 2020 12:04:09 GMT+0000 (Coordinated Universal Time)
+cuid: ckdygzvjz060gjas1b5mx2zmj
+slug: earth-engine-tutorial-34-interactive-extraction-of-pixel-values-and-interactive-region-reduction
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1597623664321/eIpMokq5u.png
+tags: python, gis, remote-sensing, geospatial, earth-engine
+
+---
 
 This tutorial shows you how to extract pixel values from Earth Engine images interactively and save pixel values as a csv and shapefile. It will also show you how to perform interactive region reduction, which allows users to draw a rectangle or circle to compute descriptive statistics (e.g., mean, min, max, std, sum) of pixels within a user-drawn geometry. The region reduction results can be exported as a csv for shapefile. 
 
