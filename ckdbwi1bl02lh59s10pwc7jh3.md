@@ -1,4 +1,12 @@
-## Tutorial for the lidar Python package
+---
+title: "Tutorial for the lidar Python package"
+datePublished: Sat Aug 01 2020 16:59:29 GMT+0000 (Coordinated Universal Time)
+cuid: ckdbwi1bl02lh59s10pwc7jh3
+slug: tutorial-for-the-lidar-python-package
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1596301105333/D3OzJUirN.png
+tags: python, gis, remote-sensing, geospatial
+
+---
 
 This tutorial demonstrates the usage of the **lidar** Python package for terrain and hydrological analysis. It is useful for analyzing high-resolution topographic data, such as digital elevation models (DEMs) derived from Light Detection and Ranging (LiDAR) data.
 
