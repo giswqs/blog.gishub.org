@@ -1,4 +1,12 @@
-## Earth Engine Tutorial #29: How to use pydeck for rendering Earth Engine data
+---
+title: "Earth Engine Tutorial #29: How to use pydeck for rendering Earth Engine data"
+datePublished: Mon Aug 03 2020 12:14:39 GMT+0000 (Coordinated Universal Time)
+cuid: ckdeh7fxa029yyss1392j3ya6
+slug: earth-engine-tutorial-29-how-to-use-pydeck-for-rendering-earth-engine-data
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1596456514215/jX7ePmWhC.png
+tags: webgl, python, gis, earth-engine
+
+---
 
 This video shows you how to use pydeck for rendering Earth Engine data. 
 
