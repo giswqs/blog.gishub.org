@@ -1,4 +1,12 @@
-## GEE Tutorial #42 - How to upload data to Earth Engine Apps using ipywidgets
+---
+title: "GEE Tutorial #42 - How to upload data to Earth Engine Apps using ipywidgets"
+datePublished: Sat Nov 21 2020 02:55:00 GMT+0000 (Coordinated Universal Time)
+cuid: ckhr3nftw02npt4s17ygf3xkr
+slug: gee-tutorial-42-how-to-upload-data-to-earth-engine-apps-using-ipywidgets
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1605927103199/BlVZ3AEHf.png
+tags: python, gis, earth-engine, geemap
+
+---
 
 %[https://youtu.be/4-WeaiObj84]
 
