@@ -1,4 +1,12 @@
-## TNGIC Conference - Automated mapping of surface water in Tennessee using Google Earth Engine
+---
+title: "TNGIC Conference - Automated mapping of surface water in Tennessee using Google Earth Engine"
+datePublished: Wed Oct 07 2020 16:33:38 GMT+0000 (Coordinated Universal Time)
+cuid: ckfzm2vch000jxas1305ta6aa
+slug: tngic-conference-automated-mapping-of-surface-water-in-tennessee-using-google-earth-engine
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1602036700001/ZX5K1iU5G.png
+tags: python, gis, remote-sensing, earth-engine, geemap
+
+---
 
 This is a conference presentation I presented at the Tennessee Geographic Information Council (TNGIC) [Virtual Fall Forum](http://www.tngic.org/2020-regionals.htm) on October 7, 2020. 
 
