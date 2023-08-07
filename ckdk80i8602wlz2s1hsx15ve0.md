@@ -1,4 +1,12 @@
-## Earth Engine Tutorial #31: Machine Learning with Earth Engine - Unsupervised Classification
+---
+title: "Earth Engine Tutorial #31: Machine Learning with Earth Engine - Unsupervised Classification"
+datePublished: Fri Aug 07 2020 12:43:56 GMT+0000 (Coordinated Universal Time)
+cuid: ckdk80i8602wlz2s1hsx15ve0
+slug: earth-engine-tutorial-31-machine-learning-with-earth-engine-unsupervised-classification
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1596804222521/5d3kwFXFo.png
+tags: python, machine-learning, gis, earth-engine
+
+---
 
 This tutorial shows you how to perform unsupervised classification (e.g., KMeans clustering) in Earth Engine.
 
