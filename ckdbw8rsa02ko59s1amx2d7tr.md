@@ -1,4 +1,12 @@
-## whitebox tutorial
+---
+title: "whitebox tutorial"
+datePublished: Sat Aug 01 2020 16:52:16 GMT+0000 (Coordinated Universal Time)
+cuid: ckdbw8rsa02ko59s1amx2d7tr
+slug: whitebox-tutorial
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1596300696777/D0p_G0gad.png
+tags: python, gis, remote-sensing, geospatial
+
+---
 
 This tutorial demonstrates the usage of the **whitebox** Python package for geospatial analysis, which is built on a stand-alone executable command-line program called [WhiteboxTools](https://github.com/jblindsay/whitebox-tools).
 
