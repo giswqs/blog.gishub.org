@@ -1,4 +1,12 @@
-## Crime Analysis Using R
+---
+title: "Crime Analysis Using R"
+datePublished: Sat Aug 01 2020 16:21:15 GMT+0000 (Coordinated Universal Time)
+cuid: ckdbv4vk202ik59s12s9w7j35
+slug: crime-analysis-using-r
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1596298782101/rag5W_SRZ.png
+tags: r, gis, geospatial
+
+---
 
 The tutorial will work through practical examples showing you how to conduct crime analysis using R. 
 
