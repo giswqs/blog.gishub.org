@@ -1,4 +1,12 @@
-## Earth Engine Video Tutorials
+---
+title: "Earth Engine Video Tutorials"
+datePublished: Sun Aug 02 2020 02:26:44 GMT+0000 (Coordinated Universal Time)
+cuid: ckdcgrirj03dp59s1edts8jbv
+slug: earth-engine-video-tutorials
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1596335132009/kH9zuLst4.png
+tags: python, gis, remote-sensing, geospatial, earth-engine
+
+---
 
 I have developed a series of video tutorials for using  [geemap](https://github.com/giswqs/geemap) and the Earth Engine Python API. These videos are available on my [YouTube channel](https://www.youtube.com/c/QiushengWu). If you can't access YouTube in your country, you can try [哔哩哔哩](https://space.bilibili.com/527404442)。
 
