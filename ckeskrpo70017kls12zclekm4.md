@@ -1,4 +1,12 @@
-## WhiteboxTools v1.4.0 released
+---
+title: "WhiteboxTools v1.4.0 released"
+datePublished: Mon Sep 07 2020 13:42:52 GMT+0000 (Coordinated Universal Time)
+cuid: ckeskrpo70017kls12zclekm4
+slug: whiteboxtools-v140-released
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1599486073385/KBWWm21ob.png
+tags: gis, remote-sensing, geospatial
+
+---
 
 WhiteboxTools  [v1.4.0](https://github.com/jblindsay/whitebox-tools/releases/tag/1.4.0)  with **447** tools for geospatial analysis has been released by Dr. [John Lindsay](https://github.com/jblindsay). I have updated the WhiteboxTools frontends (Python, R, ArcGIS) to use WBT v1.4.0. Note that the QGIS frontend is not maintained by me. Therefore, it might not be up-to-date. 
 
