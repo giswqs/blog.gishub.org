@@ -1,4 +1,12 @@
-## eCognition Tutorials
+---
+title: "eCognition Tutorials"
+datePublished: Sat Aug 01 2020 16:32:28 GMT+0000 (Coordinated Universal Time)
+cuid: ckdbvjauy02jm59s1828t6uc7
+slug: ecognition-tutorials
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1596299492403/z4HB4V21I.png
+tags: tutorials, gis, remote-sensing
+
+---
 
 This is a tutorial for object-based image classification using eCognition.
 
