@@ -1,4 +1,12 @@
-## How to publish a Python package on conda-forge
+---
+title: "How to publish a Python package on conda-forge"
+datePublished: Thu Mar 18 2021 20:07:32 GMT+0000 (Coordinated Universal Time)
+cuid: ckmfb1y8v02k59js1523c1ffy
+slug: how-to-publish-a-python-package-on-conda-forge
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1616097554334/Fku25ycfG.png
+tags: github, python, gis, geospatial, earth-engine
+
+---
 
 **Here is a quick start guide for publishing a Python package on conda-forge. More information can be found in this [video tutorial](https://youtu.be/NNWhz7pqwCw). **
 
