@@ -1,4 +1,12 @@
-## GEE Tutorial #41 - How to develop an Earth Engine app for mapping surface water dynamics
+---
+title: "GEE Tutorial #41 - How to develop an Earth Engine app for mapping surface water dynamics"
+datePublished: Mon Oct 26 2020 16:29:41 GMT+0000 (Coordinated Universal Time)
+cuid: ckgqrazec002r76s1fkrsedr0
+slug: gee-tutorial-41-how-to-develop-an-earth-engine-app-for-mapping-surface-water-dynamics
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1603728969948/_OZlVr2A8.png
+tags: python, gis, remote-sensing, earth-engine, geemap
+
+---
 
 This tutorials shows you how to develop an Earth Engine app for mapping landscape changes (e.g., surface water, vegetation, urban). 
 
